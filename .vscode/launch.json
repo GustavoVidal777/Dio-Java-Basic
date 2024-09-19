@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BoletimEscolar",
+            "request": "launch",
+            "mainClass": "gustavo.vidal.primeirasemana.BoletimEscolar",
+            "projectName": "Dio-Java-Basic_732fcc38"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClass",
+            "request": "launch",
+            "mainClass": "MinhaClass",
+            "projectName": "Dio-Java-Basic_732fcc38"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
