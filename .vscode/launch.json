@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Matematica",
+            "request": "launch",
+            "mainClass": "gustavo.vidal.primeirasemana.Matematica",
+            "projectName": "Dio-Java-Basic_732fcc38"
+        },
+        {
+            "type": "java",
             "name": "BoletimEscolar",
             "request": "launch",
             "mainClass": "gustavo.vidal.primeirasemana.BoletimEscolar",
