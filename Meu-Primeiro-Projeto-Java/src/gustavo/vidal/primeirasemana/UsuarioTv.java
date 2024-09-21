@@ -8,9 +8,28 @@ public class UsuarioTv {
             System.out.println("Tv Ligada");
         }
         else {
-            System.out.println("Tv Ligada");
+            System.out.println("Tv Desligada");
         }
-        System.out.println("Canal atual: " + smartTv.canal);
-        System.out.println("Volume atual: " + smartTv.volume);
+            System.out.println("Canal atual: " + smartTv.canal);
+            System.out.println("Volume atual: " + smartTv.volume);
+
+       smartTv.ligar();
+       if (smartTv.ligada == true) {
+        System.out.println(" Teste 2 Tv Ligada");
+       }
+       else {
+        System.out.println(" Teste 2 Tv Desligada");
+       }
+
+       smartTv.desligar();
+       if (smartTv.ligada == true) {
+        System.out.println(" Teste 3 Tv Ligada");
+       }
+       else {
+        System.out.println(" Teste 3 Tv Desligada");
+       }
+
+
+
     }
 }
