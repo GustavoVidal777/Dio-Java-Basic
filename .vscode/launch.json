@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Outro",
+            "request": "launch",
+            "mainClass": "gustavo.vidal.primeirasemana.Outro",
+            "projectName": "Dio-Java-Basic_70cca02"
+        },
+        {
+            "type": "java",
+            "name": "Matematica",
+            "request": "launch",
+            "mainClass": "gustavo.vidal.primeirasemana.Matematica",
+            "projectName": "Dio-Java-Basic_70cca02"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClass",
+            "request": "launch",
+            "mainClass": "gustavo.vidal.primeirasemana.MinhaClass",
+            "projectName": "Dio-Java-Basic_70cca02"
+        },
+        {
+            "type": "java",
             "name": "BoletimEscolar",
             "request": "launch",
             "mainClass": "gustavo.vidal.primeirasemana.BoletimEscolar",
