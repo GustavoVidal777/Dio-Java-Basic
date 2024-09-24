@@ -1,6 +1,6 @@
 package gustavo.vidal.primeirasemana;
 
-public class SmartTv {
+    public class SmartTv {
 
         boolean ligada = false;
         int canal = 10;
@@ -25,7 +25,7 @@ public class SmartTv {
         }
 
         public void mudarCanal(int novoCanal){
-            if (novoCanal <= 100 || novoCanal >=1)
+            if (novoCanal <= 100 && novoCanal >=1)
             canal = novoCanal;
         }
 
@@ -37,7 +37,10 @@ public class SmartTv {
             canal --;
         }
 
-        }
+}
         
 
+
+
+    
 

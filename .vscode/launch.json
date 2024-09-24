@@ -9,13 +9,27 @@
             "name": "UsuarioTv",
             "request": "launch",
             "mainClass": "gustavo.vidal.primeirasemana.UsuarioTv",
-            "projectName": "Dio-Java-Basic_70cca02"
+            "projectName": "Dio-Java-Basic_aa5b0f7f"
         },
         {
             "type": "java",
             "name": "Outro",
             "request": "launch",
             "mainClass": "gustavo.vidal.primeirasemana.Outro",
+            "projectName": "Dio-Java-Basic_aa5b0f7f"
+        },
+        {
+            "type": "java",
+            "name": "UsuarioTv",
+            "request": "launch",
+            "mainClass": "gustavo.vidal.primeirasemana.UsuarioTv",
+            "projectName": "Dio-Java-Basic_70cca02"
+        },
+        {
+            "type": "java",
+            "name": "SmartTv",
+            "request": "launch",
+            "mainClass": "gustavo.vidal.primeirasemana.SmartTV",
             "projectName": "Dio-Java-Basic_70cca02"
         },
         {
